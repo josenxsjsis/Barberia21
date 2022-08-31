@@ -308,5 +308,8 @@ table{
     margin: 20px;
     width: auto;
 }
+footer, main{
+    width: auto;
+}
 
 }
