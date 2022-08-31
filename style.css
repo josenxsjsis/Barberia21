@@ -292,9 +292,6 @@ width: 100%;
 
 @media screen and (max-width:480px) {
     
-body{
-    width: auto;
-}
   .productos, .producto-descripcion, .producto-precio, .producto-descripcion{
     width: auto;
 }
@@ -305,11 +302,9 @@ table{
     width: auto;
 }
 .position, .productos li, .enviar{
-    margin: 20px;
+    margin: 5px;
     width: auto;
 }
-footer, main{
-    width: auto;
-}
+
 
 }
